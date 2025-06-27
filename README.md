@@ -34,7 +34,7 @@ Este projeto visa resolver questões do leetcode relacionadas a algoritimos Divi
 
 ### [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)
 
-![](./img/largest_element.png)
+![](./img/kth_largest_element.png)
 
 ### [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/description/)
 
