@@ -11,12 +11,12 @@
 ## Sobre 
 Este projeto visa resolver questões do leetcode relacionadas a algoritimos Dividir e Conquistar com dificuldades médias e difíceis
 
-| Problema | Nome                                   | Dificuldade |
-|----------|----------------------------------------|-------------|
-| -      | []()                        | Médio       |
-| -     | []()                        | Difícil     |
-| -     | []()                        | Médio       |
-| -    | []()                        | Difícil     |
+| Problema | Nome                                                                                        | Dificuldade |
+|----------|---------------------------------------------------------------------------------------------|-------------|
+| 1382     | [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/) | Médio       |
+| 23       | [Merge K sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                 | Difícil     |
+| -        | []()                                                                                        | Médio       |
+| -        | []()                                                                                        | Difícil     |
 
 ## Apresentação
 
@@ -24,13 +24,13 @@ Este projeto visa resolver questões do leetcode relacionadas a algoritimos Divi
 
 ## Screenshots
 
-### [](LINK)
+### [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/)
 
-![](./img/IMAGEM.png)
+![](./img/balance-bst.png)
 
-### [](LINK)
+### [Merge K sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 
-![](./img/IMAGEM.png)
+![](./img/merge-lists.png)
 
 ### [](LINK)
 
