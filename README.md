@@ -38,7 +38,7 @@ Este projeto visa resolver questões do leetcode relacionadas a algoritimos Divi
 
 ### [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/description/)
 
-![](./img/reverse_pairs)
+![](./img/reverse_pairs.png)
 
 
 ## Instalação
