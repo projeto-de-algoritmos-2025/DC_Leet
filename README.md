@@ -15,8 +15,8 @@ Este projeto visa resolver questões do leetcode relacionadas a algoritimos Divi
 |----------|---------------------------------------------------------------------------------------------|-------------|
 | 1382     | [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/) | Médio       |
 | 23       | [Merge K sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                 | Difícil     |
-| -        | []()                                                                                        | Médio       |
-| -        | []()                                                                                        | Difícil     |
+| 215      | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)  | Médio       |
+| 493      | [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/description/)                   | Difícil     |
 
 ## Apresentação
 
@@ -32,13 +32,13 @@ Este projeto visa resolver questões do leetcode relacionadas a algoritimos Divi
 
 ![](./img/merge-lists.png)
 
-### [](LINK)
+### [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)
 
-![](./img/IMAGEM.png)
+![](./img/largest_element.png)
 
-### [](LINK)
+### [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/description/)
 
-![](./img/IMAGEM.png)
+![](./img/reverse_pairs)
 
 
 ## Instalação
